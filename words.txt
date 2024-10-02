@@ -1,0 +1,4 @@
+ff ff ff gg gg
+tt tt tt dd dd dd
+dd dd dd gg gg gg gg
+tt tt tt tt tt yy yy
