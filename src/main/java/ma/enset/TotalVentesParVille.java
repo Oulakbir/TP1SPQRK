@@ -9,7 +9,7 @@ import scala.Tuple2;
 public class TotalVentesParVille {
     public static void main(String[] args) {
         // Initialisation de la configuration Spark
-        SparkConf conf = new SparkConf().setAppName("Total Sales by City").setMaster("local");
+        SparkConf conf = new SparkConf().setAppName("Total Sales by City");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
         // Lecture du fichier texte contenant les ventes
